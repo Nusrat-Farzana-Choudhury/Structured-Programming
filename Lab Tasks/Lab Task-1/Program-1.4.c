@@ -2,12 +2,12 @@
 int main ()
 
 {
- float farenheit,centigrade;
+ float fahrenheit,centigrade;
  
- printf("Enter the temperature of city (in farenheit): ");
- scanf("%f",&farenheit);
+ printf("Enter the temperature of city (in fahrenheit): ");
+ scanf("%f",&fahrenheit);
  
- centigrade= (5.00/9.00)* (farenheit-32.00);
+ centigrade= (5.00/9.00)* (fahrenheit-32.00);
  
  printf("The temperature of city (in centigrade): %.2f",centigrade);
 
