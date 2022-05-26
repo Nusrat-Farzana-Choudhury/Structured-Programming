@@ -16,7 +16,7 @@ int main()
 	e=d/10;
 	d1=d%10;
 
-    printf("The reverse orderr is: %d\t %d\t %d\t %d\t %d",d5,d4,d3,d2,d1);
+        printf("The reverse orderr is: %d\t %d\t %d\t %d\t %d",d5,d4,d3,d2,d1);
     
 	return 0;
 	
