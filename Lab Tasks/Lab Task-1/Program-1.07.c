@@ -16,7 +16,7 @@ int main()
 	e=d/10;
 	d1=d%10;
 
-    sum=d1+d2+d3+d4+d5;
+        sum=d1+d2+d3+d4+d5;
 	printf("The sum of its digit is: %d",sum);
 	
 	return 0;
