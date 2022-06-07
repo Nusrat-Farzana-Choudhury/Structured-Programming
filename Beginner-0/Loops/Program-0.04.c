@@ -1,4 +1,4 @@
-/*Write a C program to print first 10 natural numbers in reversed using 'For' loop.*/
+/*Write a C program to print first 10 natural numbers in reversed order using 'For' loop.*/
 
 #include <stdio.h>
 int main ()
