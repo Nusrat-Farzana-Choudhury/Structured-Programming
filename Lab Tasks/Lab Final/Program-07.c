@@ -20,7 +20,7 @@ int main ()
               continue;
         }
 
-          if(is_prime)
+          if(is_prime==1)
           printf ("%d\n", i);
 
         a = 2;
