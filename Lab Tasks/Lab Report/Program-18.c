@@ -17,4 +17,3 @@ sum+=2*i-1;
 printf("\nThe Sum of odd Natural Number upto %d terms : %d \n",n,sum);
 return 0;
 }
-/*ID:221-35-
