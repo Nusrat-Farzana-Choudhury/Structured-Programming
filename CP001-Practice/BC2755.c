@@ -4,6 +4,5 @@ int main() {
     printf("(._.) ( l: ) ( .-. ) ( :l ) (._.)\n");
     printf("(^_-) (-_-) (-_^)\n");
     printf("(\"_\") ('.')\n");
-    return 0;
-    
+    return 0;    
 }
